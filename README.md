@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nodedropweb
-- 👀 I’m interested in cookl stuff related to Drupal
+- 👀 I’m interested in cool stuff related to Drupal
 - 🌱 I’m currently learning Drupal Themeing
   
 
